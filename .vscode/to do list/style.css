@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; background: #f3f3f3; }
+#container { width: 350px; margin: 50px auto; background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 2px 8px #aaa; }
+input[type="text"] { width: 75%; padding: 8px; }
+button { padding: 8px 12px; }
+ul { list-style: none; padding: 0; }
+li { padding: 8px 0; border-bottom: 1px solid #eee; }
+.done { text-decoration: line-through; color: #888; }
+.delBtn { float: right; background: red; color: #fff; border: none; cursor: pointer; }
